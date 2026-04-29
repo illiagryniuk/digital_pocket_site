@@ -1,6 +1,6 @@
-# Digital Pocket Website
+# Pocket Clipboard Website
 
-Static website for the Digital Pocket iOS app.
+Static website for the Pocket Clipboard iOS app.
 
 - Privacy Policy: `privacy.html`
 - Support: `support.html`
